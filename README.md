@@ -1,2 +1,2 @@
 ALUNO: Wanderley Goncalves junior
-Não tive tempo de fazer, tenho que realizar.
+Não tive tempo de fazer.
