@@ -1,1 +1,2 @@
-# prova2sistemasdistribuidos
+ALUNO: Wanderley Goncalves junior
+Não tive tempo de fazer, tenho que realizar.
